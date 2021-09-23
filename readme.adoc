@@ -1,6 +1,6 @@
 = DIAMOND SHOP
 
-A small demo of the App : https://shorturl.at/cfpN5[Click me]
+
 
 === ABOUT
 
