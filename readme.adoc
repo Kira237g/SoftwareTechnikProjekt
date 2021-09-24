@@ -18,6 +18,8 @@ To install and run this project follow these steps:
 
 . Run the Spring boot application (src/main/java/com/shop/diamond/DiamondShopApplication.java)
 
+. The Application will start on : http://localhost:8080
+
 === ALL DEFAULT USERS
 
 . All default users in the App
